@@ -1,0 +1,526 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7314636687521748921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637089948883203365
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-5723480679093289583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637090100904397467
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-4707060557478918848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637090038460899812
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4678383475016091748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/GameScene.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/GameScene.bank
+  SubDir: 
+  lastModified: 637090038460800072
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4212283366538696040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637090747322137230
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 974
+  Exists: 1
+--- !u!114 &-3959463197712150596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Menus.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/Menus.bank
+  SubDir: 
+  lastModified: 637089948855826256
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-3744075183580918225
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Menus.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/Menus.bank
+  SubDir: 
+  lastModified: 637089948883412803
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-3668659124362229891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/GameScene.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/GameScene.bank
+  SubDir: 
+  lastModified: 637090014690906535
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-2909180936378504180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Bells
+  m_EditorClassIdentifier: 
+  Path: event:/Bells
+  guid: f8ffcdb2c717714781ce27802cad6bd0
+  Banks:
+  - {fileID: 5927784015112972754}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 928
+--- !u!114 &-2204047465828802888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637089781837385835
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1200772021901494538
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637089948855576912
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-752782274890856725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637089902578970526
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-591758801307406284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/GameScene.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/GameScene.bank
+  SubDir: 
+  lastModified: 637089948883642184
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-68364432289455504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637090014690966388
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-51585100879056777
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Menus.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/Menus.bank
+  SubDir: 
+  lastModified: 637089902579553799
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-9278754036601498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637089782811253721
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -4212283366538696040}
+  - {fileID: 3327636085967336911}
+  - {fileID: -5723480679093289583}
+  - {fileID: 5927784015112972754}
+  EditorEvents:
+  - {fileID: -2909180936378504180}
+  - {fileID: 4222278122039166337}
+  - {fileID: 7937798076886399943}
+  - {fileID: 8658215493856574018}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -5723480679093289583}
+  StringsBanks:
+  - {fileID: -4212283366538696040}
+  stringsBankWriteTime: 637090747322137230
+  cacheVersion: 3
+--- !u!114 &64319034172784387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Menus.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/Menus.bank
+  SubDir: 
+  lastModified: 637090038462056721
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &362983951000934409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Test
+  m_EditorClassIdentifier: 
+  Path: event:/Test
+  guid: 6f1bb77278b8984f829f550729249561
+  Banks:
+  - {fileID: 474909788981581028}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 547787
+--- !u!114 &474909788981581028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637089783067134134
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &2562996081837895922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Menus.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/Menus.bank
+  SubDir: 
+  lastModified: 637090014691734313
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &3327636085967336911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/GameScene.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/GameScene.bank
+  SubDir: 
+  lastModified: 637090747322177110
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &4222278122039166337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/I Hate It
+  m_EditorClassIdentifier: 
+  Path: event:/I Hate It
+  guid: 5172cc09e6f81340ae76fdd022fbf71f
+  Banks:
+  - {fileID: 3327636085967336911}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 766
+--- !u!114 &5927784015112972754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Menus.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/Menus.bank
+  SubDir: 
+  lastModified: 637090100904397467
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &7937798076886399943
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/I Love It
+  m_EditorClassIdentifier: 
+  Path: event:/I Love It
+  guid: a598bd579878aa4d92bc3414306e4854
+  Banks:
+  - {fileID: 3327636085967336911}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 658
+--- !u!114 &8486656211310214475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/GameScene.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/GameSound/Build/Desktop/GameScene.bank
+  SubDir: 
+  lastModified: 637089948856389846
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8658215493856574018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Game  Music
+  m_EditorClassIdentifier: 
+  Path: event:/Game  Music
+  guid: 89aa23971df90f48a39298082b4e5745
+  Banks:
+  - {fileID: 3327636085967336911}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 30778
